@@ -1,5 +1,5 @@
 {
-  "name": "apollo-server-core",
+  "name": "@snaplytics/apollo-server-core",
   "version": "1.4.0",
   "description": "Core engine for Apollo GraphQL server",
   "main": "dist/index.js",

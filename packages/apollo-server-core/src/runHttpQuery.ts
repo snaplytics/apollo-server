@@ -189,6 +189,7 @@ export async function runHttpQuery(
       }
 
       let params = {
+        requestId: requestParams.id,
         schema: optionsObject.schema,
         query: query,
         variables: variables,
